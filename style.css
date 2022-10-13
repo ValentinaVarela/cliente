@@ -6,12 +6,6 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.detalle{
-    margin-top: 2%;
-    margin-left: 85%;
-    color: rgb(92, 90, 90);
-}
-
 .agregar{
     margin-left: 3%;
     width: 15%;
@@ -20,21 +14,15 @@
     text-decoration: none;
     font-size: 180%;
     text-align: center;
+    margin-top: 2%;
 }
 
-.foto_helado{
+.foto1, .foto2, .foto3, .foto4{
     margin-top: 6%;
     margin-left: 3%;
-    height: 15%;
+    height: 35vh;
     width: 20%;
-    display: flex;
-}
-
-.foto2{
-    margin-left: 10%;
-    height: 200%;
-    width: 240%;
-    display: flex;
+    box-shadow: 10px 10px 0 rgb(164, 161, 161);
 }
 
 .row{
